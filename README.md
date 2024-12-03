@@ -1,6 +1,6 @@
 # Hello there, welcome to my Github page!
 
-My name is Itay, I am a software developer, with a special interest in advanced algorithmics and backend development.
+My name is Itay, I am a software developer.
 Feel free to contact me on any matter!
 
 ## Languages and Tools:
