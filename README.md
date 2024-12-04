@@ -21,8 +21,6 @@ Feel free to contact me on any matter!
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="python" width="26" height="26"/> </a>
   </a>&nbsp;&nbsp;
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="python" width="26" height="26"/> </a>
-   </a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/> </a>
   &nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt=".NET" width="26" height="26"/> </a></p>
